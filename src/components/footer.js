@@ -105,8 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+        <a href="http://beian.miit.gov.cn/">
+          <div>粤ICP备18021686号-1</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
